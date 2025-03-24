@@ -1,1 +1,1 @@
-# Profile-README
+Ik ben een student in de opleiding Graduaat Programmeren aan Arteveldehogeschool. Door mijn opleiding heb ik interesse gekregen in back-end development. In opleiding heb ik leren werken met onder andere JavaScript, CSS , HTML en Node.js
